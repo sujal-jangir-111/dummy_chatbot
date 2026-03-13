@@ -54,6 +54,7 @@ if "message_history" not in st.session_state:
 
 
 
+st.header("My first AI Chatbot 🤖")
 
 st.sidebar.title("Langgraph Chatbot")
 
